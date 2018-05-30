@@ -1,0 +1,22 @@
+/* pages/index/index.wxss */
+.banner{
+  width: 100%;
+  margin-top: 80rpx;
+}
+.banner text{
+  font-size: 50rpx;
+}
+.banner button{
+  width:240rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  border-radius: 4rpx;
+  font-size: 30rpx;
+  margin: 50rpx auto;
+  background-color: #5199f9;
+  border:0;
+  color: #fff;
+}
+.banner image{
+  width: 90%;
+}

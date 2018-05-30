@@ -1,0 +1,13 @@
+<!--pages/index/index.wxml-->
+<view class="container">
+  <view class="banner tc">
+    <text>一站式\n办公文档管理平台</text>
+    <button>立即注册</button>
+    <image mode='widthFix' src='../../images/banner.png'></image>
+  </view>
+  <view class="office-wrap">
+    <text>Office套件 </text>
+    <text>回归初心，领航之作</text>
+    <text>金山办公三十年打造的WPS Office，</text>
+  </view>
+</view>
